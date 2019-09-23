@@ -1,4 +1,4 @@
-### tech check
+### Tech check
 * Node v8+
 * Yarn / NPM (latest)
 * Mongo (latest) (see below for Docker install)
